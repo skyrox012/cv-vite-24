@@ -52,7 +52,7 @@ body {
 }
 
 .right-column {
-  background-color: #003366;
+  background-color: ;
 }
 
 h1 {
@@ -96,6 +96,10 @@ a:hover {
     flex-direction: column;
     /* Colonnes empilées sur petits écrans */
   }
+
+    .contact-info {
+      text-align: left;
+    }
 
   .left-column,
   .right-column {
