@@ -1,10 +1,4 @@
-import "./style.css";
-
-document.querySelector("#app").innerHTML = `
-  <h1></h1>
-`;
-
- import data from './cv.json'; // Assure-toi que le chemin vers le JSON est correct
+import data from './cv.json'; // Assurez-vous que cv.json est dans le même dossier
 
 // Compétences
 const skills = document.getElementById('skills');
