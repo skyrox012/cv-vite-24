@@ -1,0 +1,47 @@
+{
+  "personal_info": {
+    "name": "Julie Deschoenmaekers",
+    "age": 22,
+    "location": "1490, Court-Saint-Etienne",
+    "email": "julie.deschoenmaekers@gmail.com",
+    "phone": "+32 476 92 92 86",
+    "portfolio": "juliedeschoenmaekers.be"
+  },
+  "job_title": "Web Design",
+  "about_me": {
+    "description": "Étudiante en web design à l'Ifosup, je maîtrise les bases du design UI/UX. J'ai acquis des compétences en outils graphiques de la suite Adobe. Je souhaite appliquer mes connaissances tout en continuant à développer mes compétences techniques et créatives dans un environnement professionnel."
+  },
+  "skills": {
+    "Illustrator": "Créer des logos et icones",
+    "Photoshop": "Retoucher des images et réaliser des montages graphiques",
+    "Adobe XD": "Faire des maquettes de sites web",
+    "HTML/CSS": "Réaliser une structure web responsive et design",
+    "Wordpress": "Réaliser des sites web sur base d'un CMS",
+    "PaintTool SAI / Rebelle 5": "Créer des illustrations digitales sur tablette graphique"
+  },
+  "education": [
+    {
+      "degree": "Secondaire",
+      "institution": "Collège des Hayeffes",
+      "years": "2014-2020"
+    },
+    {
+      "degree": "Infographie",
+      "institution": "Haute école Albert Jacquard",
+      "years": "2020-2021"
+    },
+    {
+      "degree": "Web design",
+      "institution": "Institut de Formation Supérieure - Wavre",
+      "years": "2023 (2ème en cours)"
+    }
+  ],
+  "languages": {
+    "French": "langue maternelle",
+    "English": "B1"
+  },
+  "hobbies": [
+    "Dessin digital",
+    "Jeux vidéo"
+  ]
+}
